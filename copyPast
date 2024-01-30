@@ -1,0 +1,25 @@
+<div class="top-ul">
+    <ul class="main-nav">
+        <div class="call">
+            <li class="callP">
+                <img src="images/telephone-symbol-icon-phone-download-png-ed4ef6f248998a66d7a7808a0790e12e.png" alt="">
+                <!-- <p class="callPp">27 973 974</p> -->
+            </li>
+            <li>
+                <a href=" https://api.whatsapp.com/send?phone=0096181873259">
+                    <img src="images/iphone-whatsapp-logo-whatsapp-e23f5706f476838f088f4aece2e84e7e.png" alt="whatsapp">
+                </a>
+            </li>
+            <li>
+                <a href="https://www.facebook.com/malak.mall.seblinekitermaya.main.road?mibextid=nW3QTL"><img
+                        src="images/facebook-scalable-vector-graphics-icon-facebook-logo-png-b2bd60751e410d1a8e8c60a1a74d6f99.png"
+                        alt="facebook" style="width: 50px;
+                                    position: absolute;
+                                    left: -7px;"></a>
+            </li>
+        </div>
+    </ul>
+    <div class="map-ul">
+        <!-- map -->
+    </div>
+</div>
